@@ -1,5 +1,5 @@
 <p align="center">
-![image](https://user-images.githubusercontent.com/98752860/170805348-6235b281-92cb-4c30-80ab-51937d1bb109.png)
+<img src="./downloads/gnllogo.png" />
 <h1 align="center">Get Next Line (GNL) </h1>
 <p align="center">
 <img src="https://img.shields.io/badge/Mandatory-OK-brightgreen"/>

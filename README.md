@@ -1,5 +1,5 @@
 <p align="center">
-![image](https://user-images.githubusercontent.com/98752860/170805303-6ed6bce2-0be7-4eb0-b736-80ebe417d9b6.png)
+![image](https://user-images.githubusercontent.com/98752860/170805330-f06320b2-cc56-4579-88ac-e9e6a2dd7041.png)
 
 </p>
 <h1 align="center">Get Next Line (GNL) </h1>

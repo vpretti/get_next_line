@@ -1,7 +1,11 @@
-# get_next_line
-![image](https://user-images.githubusercontent.com/98752860/170805041-f0842bb5-6da7-4998-a149-6468e89011b3.png)
-
-## Description
-Get Next Line is a project that allows the reading of a file, one line at time, from a file descriptor. 
-For each time the function is called, the following lines are read, one for each calling. 
-This project is great to learn about static variables and how to deal with memory leaks.
+<p align="center">
+<img src="./images/gnl-logo-bonus.png" />
+</p>
+<h1 align="center">Get Next Line (GNL) </h1>
+<p align="center">
+<img src="https://img.shields.io/badge/Mandatory-OK-brightgreen"/>
+<img src="https://img.shields.io/badge/Bonus-OK-brightgreen"/>
+<img src="https://img.shields.io/badge/Final%20Score-125-blue"/>
+</p>
+<p align="center">Function that returns a line read from a file descriptor: we should be
+able to call getNextLine(int fd) multiple times and returns one line at a time. If some error occur or EOF is reached, return NULL.</p>
